@@ -1,0 +1,107 @@
+1 Omnath, Locus of All (PMOM) 249p
+1 Abzan Charm (2X2) 166
+1 Alpine Meadow (KHM) 248
+1 Ancient Ziggurat (PLST) CON-141
+1 Animar, Soul of Elements (2X2) 171
+1 Annie Joins Up (POTJ) 191p
+1 Arcane Laboratory (PLST) 7ED-60
+1 Arcane Sanctum (MOC) 390
+1 Arcane Signet (DSC) 92
+1 Archmage's Charm (MH1) 40
+1 Arixmethes, Slumbering Isle (DSC) 211
+1 Atla Palani, Nest Tender (2X2) 177
+1 Bant Charm (NCC) 330
+1 Cascading Cataracts (M3C) 326
+1 Case of the Locked Hothouse (MKM) 155
+1 Case of the Shattered Pact (MKM) 1
+1 Chromatic Lantern (OTC) 255
+1 City of Brass (MD1) 15
+1 Command Tower (BLC) 130
+1 Counterflux (C15) 214
+1 Crackle with Power (PSTX) 95p
+1 Deathsprout (WAR) 189
+1 Debt to the Deathless (RVR) 176
+1 Duneblast (DMC) 148
+1 Endless Detour (SNC) 183
+1 Exotic Orchard (BLC) 131
+1 Exsanguinate (CMM) 156
+1 Farseek (RVR) 138
+1 Ferrous Lake (BLC) 303
+1 Forbidden Orchard (2X2) 323
+1 Frontier Bivouac (WHO) 281
+1 Genesis Ultimatum (IKO) 189
+1 Glarb, Calamity's Augur (BLB) 215
+1 Helga, Skittish Seer (BLB) 217
+1 High Noon (POTJ) 15p
+1 Hour of Revelation (ZNC) 17
+1 In Garruk's Wake (C16) 113
+1 Into the North (CSP) 111
+1 Invasion of Fiora // Marchesa, Resolute Monarch (MOM) 114
+1 Invert Polarity (MH3) 190
+1 Iridian Maelstrom (DMC) 12
+1 Jaya's Immolating Inferno (DOM) 133
+1 Jodah, the Unifier (DMU) 203
+1 Jungle Shrine (PIP) 270
+1 Leyline of the Guildpact (MKM) 217
+1 Lullmage's Domination (ZNR) 66
+1 Maelstrom Nexus (DMC) 159
+1 Mana Confluence (JOU) 163
+1 Mossfire Valley (M3C) 357
+1 Muldrotha, the Gravetide (2X2) 258
+1 Mystic Monastery (PLST) KTK-236
+1 Niv-Mizzet, Parun (OTC) 235
+1 Nomad Outpost (PIP) 277
+1 Obscura Charm (SNC) 208
+1 Obsidian Obelisk (DMC) 18
+1 Opulent Palace (PIP) 278
+1 Overflowing Basin (DSC) 293
+1 Path of Ancestry (M3C) 363
+1 Phyrexian Censor (MOM) 31
+1 Phyrexian Obliterator (ONE) 105
+1 Pillar of the Paruns (2X2) 328
+1 Plaza of Heroes (PDMU) 252p
+1 Prismatic Vista (MH1) 244
+1 Reflecting Pool (CLB) 358
+1 Relic of Legends (PLST) DMU-236
+1 Render Silent (GK2) 18
+1 Rienne, Angel of Rebirth (DMC) 166
+1 Rite of the Moth (DSK) 229
+1 Ruinous Ultimatum (PIP) 220
+1 Rule of Law (M20) 35
+1 Sandsteppe Citadel (CMM) 1024
+1 Sauron, the Dark Lord (LTR) 224
+1 Savage Lands (M3C) 371
+1 Seaside Citadel (BLC) 329
+1 Secluded Courtyard (CMM) 1030
+1 Seedborn Muse (C19) 179
+1 Sensei's Divining Top (2X2) 314
+1 Skycloud Expanse (MKC) 294
+1 Snow-Covered Forest (KHM) 284
+1 Snow-Covered Island (KHM) 278
+1 Snow-Covered Mountain (KHM) 283
+1 Snow-Covered Plains (KHM) 276
+1 Sol Ring (M3C) 305
+1 Spirit of Resistance (INV) 38
+1 Storvald, Frost Giant Jarl (AFC) 55
+1 Sungrass Prairie (MKC) 297
+1 Sunken Palace (M3C) 133
+1 Sunscorched Divide (PIP) 153
+1 Surrak Dragonclaw (DMC) 169
+1 Thalia and The Gitrog Monster (MOM) 255
+1 The Kami War // O-Kagachi Made Manifest (NEO) 489
+1 The World Tree (PLST) KHM-275
+1 Torment of Hailfire (PLST) HOU-77
+1 Valgavoth, Terror Eater (DSK) 120
+1 Vexing Shusher (2XM) 225
+1 Villainous Wealth (OTC) 249
+1 Void Rend (SNC) 230
+1 Voidslime (RVR) 237
+1 Xantcha, Sleeper Agent (CMM) 362
+1 Zaxara, the Exemplary (DMC) 176
+
+1 Egg (T2X2) 16
+1 Hydra (TM3C) 20
+1 Orc Army (TLTR) 6
+3 Spirit (T2X2) 2
+1 The Ring // The Ring Tempts You (TLTR) H13
+1 Treasure (T2XM) 27
