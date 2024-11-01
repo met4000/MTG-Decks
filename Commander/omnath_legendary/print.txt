@@ -36,7 +36,7 @@
 1 Hour of Revelation (ZNC) 17
 1 In Garruk's Wake (C16) 113
 1 Into the North (CSP) 111
-1 Invasion of Fiora // Marchesa, Resolute Monarch (MOM) 114
+2 Invasion of Fiora // Marchesa, Resolute Monarch (MOM) 114
 1 Invert Polarity (MH3) 190
 1 Iridian Maelstrom (DMC) 12
 1 Jaya's Immolating Inferno (DOM) 133
@@ -88,7 +88,7 @@
 1 Sunscorched Divide (PIP) 153
 1 Surrak Dragonclaw (DMC) 169
 1 Thalia and The Gitrog Monster (MOM) 255
-1 The Kami War // O-Kagachi Made Manifest (NEO) 489
+2 The Kami War // O-Kagachi Made Manifest (NEO) 489
 1 The World Tree (PLST) KHM-275
 1 Torment of Hailfire (PLST) HOU-77
 1 Valgavoth, Terror Eater (DSK) 120
