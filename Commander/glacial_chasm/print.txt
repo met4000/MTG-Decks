@@ -1,0 +1,101 @@
+1 Xavier Sal, Infested Captain (LCC) 14
+1 An Offer You Can't Refuse (PLST) SNC-51
+1 Ancient Greenwarden (OTC) 186
+1 Arcane Denial (M3C) 176
+1 Archdruid's Charm (PMKM) 151p
+1 Azusa, Lost but Seeking (A25) 161
+1 Beseech the Mirror (PWOE) 82p
+1 Brokers Hideout (SNC) 248
+1 Cabaretti Courtyard (SNC) 249
+1 Case of the Locked Hothouse (MKM) 155
+1 Chromatic Lantern (RVR) 253
+1 Command Tower (BLC) 130
+1 Conduit of Worlds (PONE) 163p
+1 Consign to Memory (MH3) 54
+1 Counterspell (MH2) 267
+1 Countersquall (UMA) 198
+1 Crop Rotation (C20) 169
+1 Crucible of Worlds (2X2) 303
+1 Cruel Tutor (PZ2) 65797
+1 Dark Depths (M3C) 334
+1 Defabricate (BRO) 45
+1 Demonic Tutor (CMM) 150
+1 Disallow (AER) 31
+1 Dismal Backwater (MOM) 269
+1 Druid Class (AFR) 180
+1 Dryad of the Ilysian Grove (CMM) 891
+1 Echoing Deeps (LCI) 271
+1 Elvish Reclaimer (M20) 169
+1 Entomb (DMR) 82
+1 Ertai's Scorn (DMU) 48
+1 Exotic Orchard (BLC) 131
+1 Expedition Map (M3C) 292
+1 Exploration (DMR) 159
+1 Field of the Dead (M20) 247
+1 Fierce Guardianship (CMM) 94
+3 Forest (M21) 274
+1 Fountainport (BLB) 253
+1 Gemstone Mine (PLST) WTH-164
+1 Glacial Chasm (ICE) 353
+1 Goldberry, River-Daughter (LTR) 52
+1 Grim Tutor (M21) 103
+1 Hex Parasite (NPH) 137
+1 Hour of Promise (M3C) 232
+1 Ice Out (WOE) 54
+1 Imperial Seal (2X2) 79
+1 Inkmoth Nexus (SLD) 45
+3 Island (MKM) 279
+1 Jwar Isle Refuge (SCD) 306
+1 Loot, Exuberant Explorer (FDN) 106
+1 Lotus Field (M20) 249
+1 Maestros Theater (SNC) 251
+1 Mirrex (PONE) 254p
+1 Muddle the Mixture (RVR) 50
+1 Negate (ORI) 65
+1 Nesting Grounds (MH3) 302
+1 Obscura Storefront (DSC) 291
+1 Oracle of Mul Daya (OTC) 200
+1 Perennial Behemoth (OTC) 262
+1 Plaza of Heroes (PDMU) 252p
+1 Power Conduit (NCC) 376
+1 Profane Tutor (MH2) 97
+1 Ramunap Excavator (OTC) 202
+1 Realms Uncharted (ROE) 206
+1 Reap and Sow (DST) 81
+1 Reflecting Pool (CLB) 358
+1 Reliquary Tower (M3C) 368
+1 Riveteers Overlook (SNC) 255
+1 Scheming Symmetry (M20) 113
+1 Soul Diviner (WAR) 218
+1 Sowing Mycospawn (MH3) 170
+1 Stifle (CNS) 108
+3 Swamp (MKM) 282
+1 Sylvan Scrying (M3C) 248
+1 Tale's End (M20) 77
+1 Teferi's Response (INV) 78
+1 Tempt with Discovery (PLST) C16-170
+1 Test of Talents (STX) 59
+1 Thespian's Stage (2XM) 327
+1 Thornwood Falls (DSC) 314
+1 Three Steps Ahead (OTJ) 75
+1 Tolaria West (TSR) 286
+1 Triskaidekaphile (BLC) 178
+1 Unmarked Grave (MH2) 106
+1 Unwind (DOM) 72
+1 Urza's Cave (MH3) 234
+1 Vampiric Tutor (DMR) 108
+1 Vesuva (M3C) 404
+1 Void Shatter (OGW) 49
+1 Voidslime (RVR) 237
+1 Walk-In Closet // Forgotten Cellar (DSK) 205
+1 Wayward Swordtooth (CMM) 331
+1 Wishclaw Talisman (FDN) 617
+1 Worldly Tutor (CC1) 6
+1 Zask, Skittering Swarmlord (J22) 47
+
+1 City's Blessing (TMOC) 45
+2 Fish (TBLB) 7
+1 Marit Lage (TDMR) 4
+1 Phyrexian Mite (TONE) 11
+1 Poison Counter (TONE) 14
+2 Zombie (TMH3) 21
