@@ -4,15 +4,15 @@
 1 Ancient Ziggurat (PLST) CON-141
 1 Animar, Soul of Elements (2X2) 171
 1 Annie Joins Up (POTJ) 191p
-1 Arcane Laboratory (PLST) 7ED-60
 1 Arcane Sanctum (MOC) 390
 1 Arcane Signet (DSC) 92
 1 Archmage's Charm (MH1) 40
 1 Arixmethes, Slumbering Isle (DSC) 211
 1 Atla Palani, Nest Tender (2X2) 177
+1 Awakening (PLST) STH-101
 1 Bant Charm (NCC) 330
+1 Bear Umbra (NEC) 113
 1 Cascading Cataracts (M3C) 326
-1 Case of the Locked Hothouse (MKM) 155
 1 Case of the Shattered Pact (MKM) 1
 1 Chromatic Lantern (OTC) 255
 1 City of Brass (MD1) 15
@@ -32,7 +32,6 @@
 1 Genesis Ultimatum (IKO) 189
 1 Glarb, Calamity's Augur (BLB) 215
 1 Helga, Skittish Seer (BLB) 217
-1 High Noon (POTJ) 15p
 1 Hour of Revelation (ZNC) 17
 1 In Garruk's Wake (C16) 113
 1 Into the North (CSP) 111
@@ -56,7 +55,6 @@
 1 Opulent Palace (PIP) 278
 1 Overflowing Basin (DSC) 293
 1 Path of Ancestry (M3C) 363
-1 Phyrexian Censor (MOM) 31
 1 Phyrexian Obliterator (ONE) 105
 1 Pillar of the Paruns (2X2) 328
 1 Plaza of Heroes (PDMU) 252p
@@ -67,7 +65,7 @@
 1 Rienne, Angel of Rebirth (DMC) 166
 1 Rite of the Moth (DSK) 229
 1 Ruinous Ultimatum (PIP) 220
-1 Rule of Law (M20) 35
+1 Sands of Time (VIS) 153
 1 Sandsteppe Citadel (CMM) 1024
 1 Sauron, the Dark Lord (LTR) 224
 1 Savage Lands (M3C) 371
@@ -91,12 +89,14 @@
 2 The Kami War // O-Kagachi Made Manifest (NEO) 489
 1 The World Tree (PLST) KHM-275
 1 Torment of Hailfire (PLST) HOU-77
+1 Urban Burgeoning (RTR) 138
 1 Valgavoth, Terror Eater (DSK) 120
 1 Vexing Shusher (2XM) 225
 1 Villainous Wealth (OTC) 249
 1 Void Rend (SNC) 230
 1 Voidslime (RVR) 237
 1 Xantcha, Sleeper Agent (CMM) 362
+1 Zacama, Primal Calamity (CMM) 365
 1 Zaxara, the Exemplary (DMC) 176
 
 1 Egg (T2X2) 16
