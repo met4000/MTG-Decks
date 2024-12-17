@@ -67,9 +67,9 @@
 1 Lurrus of the Dream-Den (IKO) 226
 
 1 Bat (TLCI) 6
-2 Cat (TFDN) 1
+1 Cat (TFDN) 1
 1 City's Blessing (TBLC) 40
 1 Food (TFDN) 22
-1 Rabbit (TCLB) 4
+2 Rabbit (TCLB) 4
 1 Spirit (TBLC) 9
 1 Treasure (TFDN) 23
