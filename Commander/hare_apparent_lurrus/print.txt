@@ -1,0 +1,75 @@
+1 Elas il-Kor, Sadistic Pilgrim (DMU) 198
+1 Anguished Unmaking (2X2) 170
+1 Argent Dais (MH3) 20
+1 Ascend from Avernus (CLB) 5
+1 Assemble the Players (MKM) 3
+1 Authority of the Consuls (PLST) KLD-5
+1 Brightclimb Pathway // Grimclimb Pathway (ZNR) 259
+1 Case of the Uneaten Feast (PMKM) 10p
+1 Castle Locthwain (ELD) 241
+1 Caves of Koilos (C21) 283
+1 Command Tower (M3C) 331
+1 Condemn (CMR) 369
+1 Corpse Knight (MOC) 321
+1 Cruel Celebrant (WAR) 188
+1 Dawn of a New Age (LTR) 5
+1 Desolate Mire (OTC) 287
+1 Dire Tactics (IKO) 183
+1 Dusk // Dawn (MKC) 61
+1 Eaten Alive (FDN) 172
+1 Emeria, the Sky Ruin (C14) 293
+1 Expel the Interlopers (WOE) 13
+1 Fell the Mighty (MKC) 65
+1 Fell the Profane // Fell Mire (MH3) 244
+1 Fetid Heath (OTC) 295
+1 Final Vengeance (DSK) 99
+1 Fountainport (BLB) 253
+28 Hare Apparent (FDN) 15
+1 Heirloom Epic (BLB) 246
+1 Hinterland Sanctifier (J25) 5
+1 Hour of Reckoning (SCD) 26
+1 Idol of Oblivion (MKC) 229
+1 Immortal Servitude (GTC) 220
+1 Isolated Chapel (OTC) 301
+1 Kaya's Wrath (DMC) 155
+1 Land Tax (ME3) 17
+1 Locket of Yesterdays (TSP) 258
+1 Lunar Convocation (BLB) 223
+1 Lunarch Veteran // Luminous Phantom (MID) 27
+1 Ocelot Pride (MH3) 38
+1 Path to Exile (OTC) 85
+1 Pearl Medallion (MH3) 294
+1 Phyrexian Tower (MH3) 303
+8 Plains (OTJ) 277
+1 Plumb the Forbidden (BLC) 188
+1 Raise the Past (FDN) 22
+1 Rally the Ancestors (FRF) 22
+1 Reliquary Tower (M3C) 368
+1 Return to the Ranks (M15) 29
+1 Shattered Sanctum (VOW) 264
+1 Silent Clearing (MH1) 246
+1 Skullclamp (MOC) 379
+1 Soul Warden (MM3) 24
+1 Soul's Attendant (ROE) 44
+1 Springleaf Drum (2XM) 291
+1 Staff of the Storyteller (ONC) 10
+2 Swamp (J22) 104
+1 Swords to Plowshares (DSC) 106
+1 Tainted Field (LCC) 356
+1 Tarrian's Journal // The Tomb of Aclazotz (LCI) 126
+1 The Battle of Bywater (LTR) 2
+1 The Meathook Massacre (MID) 112
+1 Three Tree City (BLB) 260
+1 Urza's Saga (MH2) 259
+1 Vanquish the Horde (PMID) 41p
+1 Vault of Champions (CMR) 360
+
+1 Lurrus of the Dream-Den (IKO) 226
+
+1 Bat (TLCI) 6
+2 Cat (TFDN) 1
+1 City's Blessing (TBLC) 40
+1 Food (TFDN) 22
+1 Rabbit (TCLB) 4
+1 Spirit (TBLC) 9
+1 Treasure (TFDN) 23
