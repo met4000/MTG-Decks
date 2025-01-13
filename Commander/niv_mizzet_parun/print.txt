@@ -1,0 +1,81 @@
+1 Niv-Mizzet, Parun (OTC) 235
+1 Amphibian Downpour (MH3) 51
+1 An Offer You Can't Refuse (FDN) 160
+1 Arcane Denial (M3C) 176
+1 Arcane Signet (M3C) 283
+1 Artist's Talent (BLB) 124
+1 Balmor, Battlemage Captain (FDN) 237
+1 Big Score (J22) 498
+1 Blasphemous Act (DSC) 160
+1 Brainstorm (DSC) 113
+1 Brainsurge (MH3) 53
+1 Chain Reaction (CLB) 783
+1 Consider (CLU) 84
+1 Coruscation Mage (BLB) 131
+1 Crackle with Power (STX) 95
+1 Crackling Drake (RVR) 174
+1 Curse of the Swine (OTC) 92
+1 Desperate Ritual (UMA) 127
+1 Dispel (BFZ) 76
+1 Electrostatic Field (OTC) 164
+1 Epic Experiment (OTC) 222
+1 Exalted Flamer of Tzeentch (40K) 119
+1 Fierce Guardianship (CMM) 94
+1 Flusterstorm (IMA) 55
+1 Frantic Search (NCC) 222
+1 Galvanic Iteration (INR) 236
+1 Gitaxian Probe (NPH) 35
+1 Gut Shot (MM2) 117
+1 Harmonic Prodigy (MH2) 132
+1 Haughty Djinn (OTC) 99
+1 High Tide (DMR) 54
+15 Island (FDN) 274
+1 Izzet Signet (C21) 247
+1 Kessig Flamebreather (VOW) 164
+1 Kitsa, Otterball Elite (BLB) 54
+1 Mana Geyser (C21) 176
+1 Molten Tributary (DMU) 251
+1 Monastery Swiftspear (BRO) 144
+14 Mountain (FDN) 278
+1 Mystic Sanctuary (MKC) 277
+1 Negate (ORI) 65
+2 Ojer Pakpatiq, Deepest Epoch // Temple of Cyclical Time (LCI) 67
+1 Open the Omenpaths (KHM) 143
+1 Opt (FDN) 512
+2 Ore-Rich Stalactite // Cosmium Catalyst (LCC) 11
+1 Ponder (OTC) 105
+1 Pongify (OTC) 106
+1 Preordain (OTC) 107
+1 Proft's Eidetic Memory (MKM) 67
+1 Pyretic Ritual (M11) 153
+1 Ral, Crackling Wit (PBLB) 230p
+1 Rapid Hybridization (CLU) 93
+1 Reality Shift (CMM) 113
+1 Refute (FDN) 48
+1 Reliquary Tower (M3C) 368
+1 Rousing Refrain (OTC) 178
+1 Saheeli, Sublime Artificer (WAR) 234
+1 Seething Song (C21) 179
+1 Serum Visions (OTC) 112
+1 Sleight of Hand (WOE) 67
+1 Sprite Dragon (CLB) 852
+1 Steam Vents (RTR) 247
+1 Storm-Kiln Artist (STX) 115
+1 Stormcatch Mentor (BLB) 234
+1 Stormchaser's Talent (BLB) 75
+1 Strike It Rich (MH2) 143
+1 Tempest Angler (BLB) 235
+1 Third Path Iconoclast (OTC) 244
+1 Thundering Falls (PMKM) 269p
+1 Unexpected Windfall (AFR) 164
+1 Untimely Malfunction (DSK) 161
+1 Veyran, Voice of Duality (OTC) 248
+1 Young Pyromancer (OTC) 185
+
+1 Coruscation Mage (TBLB) 17
+2 Elemental (TOTC) 14
+2 Otter (TBLB) 25
+1 Ral, Crackling Wit Emblem (TBLB) 30
+2 Servo (TWAR) 18
+2 Soldier (TOTC) 26
+1 Treasure (T2XM) 27
