@@ -1,0 +1,99 @@
+1 Ms. Bumbleflower (BLC) 3
+1 An Offer You Can't Refuse (FDN) 160
+1 Arboreal Grazer (WAR) 149
+1 Arcane Denial (M3C) 176
+1 As Foretold (2X2) 38
+1 Austere Command (LCC) 126
+1 Bear Umbra (NEC) 113
+1 Birds of Paradise (RVR) 133
+1 Brainstorm (C15) 90
+1 Broken Bond (DOM) 157
+1 Canopy Vista (MKC) 252
+1 Chasm Skulker (BLC) 164
+1 Command Tower (M3C) 331
+1 Consider (CLU) 84
+1 Dispel (BFZ) 76
+1 Dueling Grounds (INV) 245
+1 Duelist's Heritage (MKC) 60
+1 Emerald Medallion (MH3) 291
+1 Emrakul's Messenger (MH3) 61
+1 Entish Restoration (LTR) 163
+1 Excise the Imperfect (MOC) 14
+1 Exotic Orchard (BLC) 131
+1 Fabled Passage (BLB) 252
+1 Faerie Mastermind (PMOM) 58p
+1 Farewell (M3C) 170
+1 Farseek (LCC) 242
+1 Force of Negation (MH1) 52
+1 Force of Will (ALL) 28
+5 Forest (FDN) 281
+1 Frantic Search (NCC) 222
+1 Gitaxian Probe (NPH) 35
+1 Growth Spiral (LCC) 270
+1 Irrigated Farmland (CMM) 1005
+5 Island (FDN) 274
+1 Joint Exploration (DMU) 56
+1 March of Otherworldly Light (NEO) 28
+1 Minn, Wily Illusionist (AFC) 16
+1 Mirror Shield (THB) 234
+1 Natural Connection (C20) 184
+1 Nature's Lore (MKC) 178
+1 Negate (ORI) 65
+1 Omen of the Hunt (CMM) 906
+1 Opt (FDN) 512
+1 Ordeal of Nylea (CMR) 247
+1 Ornithopter (BRR) 37
+1 Path of Ancestry (BLC) 322
+1 Path to Exile (OTC) 85
+1 Phyrexian Walker (VIS) 152
+1 Pit of Offerings (LCI) 278
+2 Plains (FDN) 273
+1 Planar Genesis (MH3) 198
+1 Plaza of Heroes (PDMU) 252p
+1 Ponder (OTC) 105
+1 Prairie Stream (DMC) 225
+1 Preordain (OTC) 107
+1 Proft's Eidetic Memory (MKM) 67
+1 Radiant Purge (DTK) 31
+1 Reality Ripple (MIR) 87
+1 Reflecting Pool (PLST) CLB-358
+1 Reliquary Tower (M3C) 368
+1 Robe of Stars (AFC) 11
+1 Roiling Regrowth (ZNR) 201
+1 Scattered Groves (PIP) 286
+1 Seaside Citadel (MKC) 288
+1 Sejiri Shelter // Sejiri Glacier (ZNR) 37
+1 Serum Visions (OTC) 112
+1 Sheltered by Ghosts (DSK) 30
+1 Shield Sphere (ALL) 129
+1 Silent Arbiter (C20) 250
+1 Slip Out the Back (CLU) 99
+1 Spara's Headquarters (SNC) 257
+1 Spellbook (M10) 220
+1 Split Up (DSK) 32
+1 Strip Mine (ME4) 252
+1 Swiftfoot Boots (FDN) 258
+1 Swords to Plowshares (DSC) 106
+1 Tectonic Edge (M3C) 384
+1 Teferi, Temporal Pilgrim (BRO) 66
+1 Three Visits (OTC) 209
+1 Triskaidekaphile (MID) 81
+1 Twisted Image (A25) 75
+1 Unwind (DOM) 72
+1 Valorous Stance (PLST) CMR-390
+1 Vanish into Eternity (ONE) 36
+1 Vanquish the Horde (MID) 41
+1 Veilstone Amulet (FUT) 166
+1 Vivid Creek (NCC) 444
+1 Vivid Grove (CMR) 501
+1 Volatile Fault (M3C) 407
+1 Wasteland (TMP) 330
+1 Witch Enchanter // Witch-Blessed Meadow (MH3) 239
+
+1 Eldrazi Spawn (TMH3) 2
+1 Illusion (TAFC) 3
+1 Incubator // Phyrexian (TMOM) 16
+1 Spirit (TBRO) 1
+1 Squid (TBLC) 17
+1 Spirit (TBLC) 9
+1 Treasure (T2XM) 27
