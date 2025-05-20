@@ -5,7 +5,7 @@
 1 Ancient Ziggurat (CON) 141
 1 Archangel Elspeth (MOM) 6
 1 Basking Broodscale (MH3) 145
-1 Bitterblossom (MM2) 71
+1 Bitterblossom (2X2) 69
 1 Bleachbone Verge (PDFT) 250p
 1 Blisterpod (BFZ) 163
 1 Blooming Marsh (OTJ) 266
@@ -19,7 +19,7 @@
 1 Crawling Chorus (ONE) 8
 1 Dark Prophecy (M14) 93
 1 Dawn of a New Age (LTR) 5
-1 Deceptive Landscape (TDC) 356
+1 Deceptive Landscape (MH3) 219
 1 Desolate Mire (OTC) 287
 1 Doomed Traveler (CN2) 83
 1 Dreadhorde Invasion (DRC) 91
@@ -34,7 +34,7 @@
 1 Gas Guzzler (DFT) 85
 1 Ghoulish Procession (INR) 110
 1 Greedy Freebooter (LCI) 109
-1 Grim Haruspex (KTK) 73
+1 Grim Haruspex (C19) 118
 1 Grismold, the Dreadsower (C19) 44
 1 Grist, the Hunger Tide (DSC) 220
 1 Hangarback Walker (PLST) ORI-229
@@ -66,11 +66,11 @@
 1 Plumb the Forbidden (BLC) 188
 1 Priest of Forgotten Gods (J25) 478
 1 Raise the Past (FDN) 22
-1 Ravenous Squirrel (MH2) 375
+1 Ravenous Squirrel (MH2) 211
 1 Sandsteppe Citadel (TDM) 266
 1 Scavenger's Talent (BLB) 111
 1 Season of Loss (BLB) 112
-1 Shambling Ghast (PLST) AFR-119
+1 Shambling Ghast (J25) 124
 1 Shineshadow Snarl (LCC) 351
 1 Skrelv's Hive (ONE) 34
 1 Skullclamp (MOC) 379
@@ -94,11 +94,11 @@
 1 Woodland Cemetery (TDC) 412
 1 Wriggling Grub (J25) 12
 
-City's Blessing [tblc]
-Lolth, Spider Queen Emblem [tafr]
-2 Phyrexian Mite [tone]
-4 Poison Counter [tone]
-3 Soldier [tmom]
-3 Soldier [tblc]
-3 Spirit [trvr]
-Treasure [plst]
+1 City's Blessing (TBLC) 40
+1 Lolth, Spider Queen Emblem (TAFR) 17
+3 Phyrexian Mite (TONE) 11
+4 Poison Counter (TONE) 14
+3 Soldier (TLTC) 5
+3 Soldier (TCMR) 16
+3 Spirit (TBLC) 9
+1 Treasure (T2XM) 27
